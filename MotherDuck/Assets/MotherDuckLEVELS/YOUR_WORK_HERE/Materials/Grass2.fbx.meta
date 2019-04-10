@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 05e8046165cff6e4094949512528b33b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Grass1
+    100002: //RootNode
+    100004: Grass2
+    100006: Grass3
+    100008: Grass4
+    100010: Grass5
+    100012: Grass6
+    100014: Grass7
+    100016: Grass8
+    100018: Grass9
+    100020: MASH1_ReproMesh
+    100022: MASH1_ReproMesh1
+    100024: MASH1_ReproMesh2
+    100026: pCube2
+    100028: pCube2 1
+    100030: pCube2 2
+    100032: pCube2 3
+    100034: pCube2 4
+    100036: pCube2 5
+    100038: pCube2 6
+    100040: pCube2 7
+    100042: pCube3
+    100044: pCube3 1
+    100046: pCube3 2
+    100048: pCube3 3
+    100050: pCube4
+    100052: pCube5
+    100054: pCube6
+    100056: pCube7
+    100058: pCube8
+    100060: transform1
+    100062: transform10
+    100064: transform11
+    100066: transform12
+    100068: transform13
+    100070: transform14
+    100072: transform15
+    100074: transform16
+    100076: transform17
+    100078: transform18
+    100080: transform19
+    100082: transform2
+    100084: transform20
+    100086: transform21
+    100088: transform22
+    100090: transform23
+    100092: transform24
+    100094: transform25
+    100096: transform26
+    100098: transform27
+    100100: transform3
+    100102: transform4
+    100104: transform5
+    100106: transform6
+    100108: transform7
+    100110: transform8
+    100112: transform9
+    400000: Grass1
+    400002: //RootNode
+    400004: Grass2
+    400006: Grass3
+    400008: Grass4
+    400010: Grass5
+    400012: Grass6
+    400014: Grass7
+    400016: Grass8
+    400018: Grass9
+    400020: MASH1_ReproMesh
+    400022: MASH1_ReproMesh1
+    400024: MASH1_ReproMesh2
+    400026: pCube2
+    400028: pCube2 1
+    400030: pCube2 2
+    400032: pCube2 3
+    400034: pCube2 4
+    400036: pCube2 5
+    400038: pCube2 6
+    400040: pCube2 7
+    400042: pCube3
+    400044: pCube3 1
+    400046: pCube3 2
+    400048: pCube3 3
+    400050: pCube4
+    400052: pCube5
+    400054: pCube6
+    400056: pCube7
+    400058: pCube8
+    400060: transform1
+    400062: transform10
+    400064: transform11
+    400066: transform12
+    400068: transform13
+    400070: transform14
+    400072: transform15
+    400074: transform16
+    400076: transform17
+    400078: transform18
+    400080: transform19
+    400082: transform2
+    400084: transform20
+    400086: transform21
+    400088: transform22
+    400090: transform23
+    400092: transform24
+    400094: transform25
+    400096: transform26
+    400098: transform27
+    400100: transform3
+    400102: transform4
+    400104: transform5
+    400106: transform6
+    400108: transform7
+    400110: transform8
+    400112: transform9
+    2100000: lambert1
+    2300000: Grass9
+    2300002: MASH1_ReproMesh2
+    3300000: Grass9
+    3300002: MASH1_ReproMesh2
+    4300000: Grass9
+    4300002: MASH1_ReproMesh2
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
